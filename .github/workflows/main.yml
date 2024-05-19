@@ -20,5 +20,5 @@ jobs:
         # 如果有依赖可以在这里安装
 
     - name: Run script
-      run: python 1.py
+      run: python 21.py
       # 这里假设1.py不需要额外的命令行参数
